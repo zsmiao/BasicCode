@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/StudentManager/StudentManager.iml" filepath="$PROJECT_DIR$/StudentManager/StudentManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dailyWork/dailyWork.iml" filepath="$PROJECT_DIR$/dailyWork/dailyWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day04_Array/day04_Array.iml" filepath="$PROJECT_DIR$/day04_Array/day04_Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day05_Method/day05_Method.iml" filepath="$PROJECT_DIR$/day05_Method/day05_Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day06_Radix/day06_Radix.iml" filepath="$PROJECT_DIR$/day06_Radix/day06_Radix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day07_Oop/day07_Oop.iml" filepath="$PROJECT_DIR$/day07_Oop/day07_Oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day08_String/day08_String.iml" filepath="$PROJECT_DIR$/day08_String/day08_String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day09_list/day09_list.iml" filepath="$PROJECT_DIR$/day09_list/day09_list.iml" />
+    </modules>
+  </component>
+</project>
